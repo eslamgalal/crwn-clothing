@@ -9366,6 +9366,11 @@ serialize-javascript@^2.1.0:
   resolved "https://registry.yarnpkg.com/serialize-javascript/-/serialize-javascript-2.1.0.tgz#9310276819efd0eb128258bb341957f6eb2fc570"
   integrity sha512-a/mxFfU00QT88umAJQsNWOnUKckhNCqOl028N48e7wFmo2/EHpTo9Wso+iJJCMrQnmFvcjto5RJdAHEvVhcyUQ==
 
+serialize@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/serialize/-/serialize-0.1.3.tgz#5ea3aab60e213eaf4e8c7f03afac5f3969a6bc5f"
+  integrity sha1-XqOqtg4hPq9OjH8Dr6xfOWmmvF8=
+
 serve-index@^1.9.1:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/serve-index/-/serve-index-1.9.1.tgz#d3768d69b1e7d82e5ce050fff5b453bea12a9239"
