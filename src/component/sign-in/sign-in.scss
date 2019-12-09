@@ -2,4 +2,9 @@
   width: 30vw;
   display: flex;
   flex-direction: column;
+
+  .button {
+    display: flex;
+    justify-content: space-between;
+  }
 }
